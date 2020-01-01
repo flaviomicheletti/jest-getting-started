@@ -1,6 +1,6 @@
-# Jest Getting Started
-
 ![jestjs.png](jestjs.png)
+
+# Jest Getting Started
 
 Instalação
 
