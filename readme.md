@@ -32,3 +32,8 @@ Resultado
     Snapshots:   0 total
     Time:        5.899s
     Ran all test suites.
+
+
+### Architecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3YDiloj8_d0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
