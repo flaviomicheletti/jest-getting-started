@@ -1,5 +1,14 @@
 {
     "scripts": {
         "test": "jest"
+    },
+    "name": "flavio-jest-getting-started",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/flaviomicheletti/jest-getting-started.git",
+    "author": "Flávio Micheletti <flaviomicheletti@hotmail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^25.1.0"
     }
 }
