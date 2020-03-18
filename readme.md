@@ -2,6 +2,9 @@
 
 # Jest Getting Started
 
+https://jestjs.io/docs/pt-BR/getting-started.html
+
+
 Instalação
 
     npm install --save-dev jest
@@ -14,13 +17,14 @@ Instalação
 
 Caracas, 462 pacotes !!!
 
-Crie os arquivos segundo https://jestjs.io/docs/pt-BR/getting-started.html
+    yarn add --dev jest
+    // success Saved 295 new dependencies.
 
-O `package.json` eu criei na mão.
 
 Testando
 
     npm test
+    yarn test
 
 Resultado
 
@@ -35,5 +39,7 @@ Resultado
 
 
 ### Architecture
+
+Jest Architecture Overview
 
 https://youtu.be/3YDiloj8_d0
