@@ -1,4 +1,4 @@
-![jestjs.png](jestjs.png)
+![jestjs](https://user-images.githubusercontent.com/1257048/85959787-d17a0080-b974-11ea-816b-df03b8c1846e.png)
 
 # Jest Getting Started
 
