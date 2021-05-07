@@ -10,6 +10,6 @@
     "author": "Flávio Micheletti <flaviomicheletti@hotmail.com>",
     "license": "MIT",
     "devDependencies": {
-        "jest": "^25.1.0"
+        "jest": "^26.5.0"
     }
 }
